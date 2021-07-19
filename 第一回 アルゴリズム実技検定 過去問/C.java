@@ -1,3 +1,5 @@
+// 三番目に大きい数でなく、三番目の数らしい
+
 import java.util.Scanner;
 import java.util.Arrays;
 
